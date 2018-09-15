@@ -45,7 +45,6 @@ namespace Yarn.Unity.Example {
             if (scriptToLoad != null) {
                 FindObjectOfType<Yarn.Unity.DialogueRunner>().AddScript(scriptToLoad);
             }
-
         }
 
         // Update is called once per frame
