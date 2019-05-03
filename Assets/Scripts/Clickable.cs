@@ -46,4 +46,14 @@ public class Clickable : MonoBehaviour
     {
         FindObjectOfType<Yarn.Unity.DialogueRunner>().StartDialogue(talkToNode);
     }
+
+    void OnEnable()
+    {
+        spriteRenderer.DOColor(new Color(0.9f, 0.9f, 0.9f, 1f), 1f);
+    }
+
+    void OnDisable()
+    {
+        spriteRenderer.DOFade(0.0f, 1f);
+    }
 }

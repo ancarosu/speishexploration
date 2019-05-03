@@ -370,8 +370,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 444.5, y: -201}
-  m_SizeDelta: {x: 869, y: 40}
+  m_AnchoredPosition: {x: 405, y: -201}
+  m_SizeDelta: {x: 790, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &401260283
 MonoBehaviour:
@@ -654,7 +654,7 @@ GameObject:
   - component: {fileID: 483402868}
   - component: {fileID: 483402869}
   m_Layer: 0
-  m_Name: ShipFace
+  m_Name: ShipFacee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -876,8 +876,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 444.5, y: -25.5}
-  m_SizeDelta: {x: 869, y: 31}
+  m_AnchoredPosition: {x: 405, y: -25.5}
+  m_SizeDelta: {x: 790, y: 31}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584944562
 MonoBehaviour:
@@ -1710,8 +1710,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 444.5, y: -111}
-  m_SizeDelta: {x: 869, y: 40}
+  m_AnchoredPosition: {x: 405, y: -111}
+  m_SizeDelta: {x: 790, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1269959689
 MonoBehaviour:
@@ -1853,8 +1853,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 444.5, y: -66}
-  m_SizeDelta: {x: 869, y: 40}
+  m_AnchoredPosition: {x: 405, y: -66}
+  m_SizeDelta: {x: 790, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1436701894
 MonoBehaviour:
@@ -2548,8 +2548,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 444.5, y: -156}
-  m_SizeDelta: {x: 869, y: 40}
+  m_AnchoredPosition: {x: 405, y: -156}
+  m_SizeDelta: {x: 790, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2063394888
 MonoBehaviour:

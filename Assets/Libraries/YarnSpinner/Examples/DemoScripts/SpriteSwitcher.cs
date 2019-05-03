@@ -44,11 +44,12 @@ namespace Yarn.Unity.Example {
         /// Create a command to use on a sprite
         [YarnCommand("setsprite")]
         public void UseSprite(string spriteName) {
-
+            Debug.Log(spriteName);
             Sprite s = null;
             foreach(var info in sprites) {
                 if (info.name == spriteName) {
                     s = info.sprite;
+                    Debug.Log(info.sprite);
                     break;
                 }
              }
